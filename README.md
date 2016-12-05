@@ -1,1 +1,4 @@
 # CSSNewYear
+
+npm install
+gulp
